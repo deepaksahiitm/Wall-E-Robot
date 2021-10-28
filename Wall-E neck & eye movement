@@ -1,5 +1,4 @@
-// This is ongoing project so for latest code & Modifications visit: https://github.com/deepaksahiitm/Wall-E-Robot.git
-// Your Suggestions & support for this project will be highly appreciated. 
+// This is ongoing project.Your suggestions & support for this project will be highly appreciated. 
 // This code is for neck & eye movement only.In this project 2 servo motor is for eye & 3 servo mootor for neck.
 
 #include <Servo.h>  // its include servo library for servo motor
